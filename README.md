@@ -1,4 +1,4 @@
-# CSE-203 (DAA) Assignment #2: Sparse Matrix Implementation
+Sparse Matrix Implementation
 
 ## Problem Area Description
 
