@@ -1,0 +1,2 @@
+# Sparse Matrix Output
+m = 0 n =0
